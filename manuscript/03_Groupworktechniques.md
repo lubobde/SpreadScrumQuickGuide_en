@@ -8,7 +8,7 @@ __Setup:__
 
 Non
 
-__Vorgehen:__
+__Procedure:__
 
 * Das Thema als Titel in die Tabelle schreiben, von den Teilnehmern die Bestätigung einholen, dass das Thema / die Aufgabenstellung korrekt formuliert ist
 

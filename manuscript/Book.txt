@@ -1,7 +1,7 @@
 _1_Frontmatter.txt
 01_Imprint.md
 _2_Mainmatter.txt
+03_Groupworktechniques.md
+04_Moderation.md
+05_TechnicalStuff.md
 02_Release_Notes.md
-03_Arbeitstechniken.md
-04_Hinweise_zur_Moderation.md
-05_Technik.md

@@ -8,4 +8,4 @@ Author: Lucius Bobikiewicz
 
 lucius.bobikiewicz@loop-2.net
 
-[www.spreadscrum.com](http://spreadscrum.com)
+<www.spreadscrum.com>
