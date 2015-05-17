@@ -1,4 +1,6 @@
-01_Title.md
+_1_Frontmatter.txt
+01_Imprint.md
+_2_Mainmatter.txt
 02_Release_Notes.md
 03_Arbeitstechniken.md
 04_Hinweise_zur_Moderation.md

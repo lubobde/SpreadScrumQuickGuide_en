@@ -1,11 +1,11 @@
-Spread Scrum
-A simple Method for virtual Scrum Meetings
 
 
-Quick Guide
+__Revision 03__
 
+Published on May 17th 2015
 
-www.spreadscrum.com
-Author: Lucius Bobikiewicz, lucius.bobikiewicz@loop-2.net
-Revision 3 
+Author: Lucius Bobikiewicz
 
+lucius.bobikiewicz@loop-2.net
+
+[www.spreadscrum.com](http://spreadscrum.com)

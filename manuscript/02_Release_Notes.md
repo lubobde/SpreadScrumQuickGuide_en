@@ -1,5 +1,6 @@
-Release Notes
+# Release Notes
 
 
 May 17th 2015
-First draft of English version
+
+First draft of the English version
