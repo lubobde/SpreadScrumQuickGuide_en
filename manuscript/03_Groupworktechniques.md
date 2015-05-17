@@ -8,7 +8,7 @@ __Setup:__
 
 Non
 
-__Procedure:__
+__How to do it:__
 
 * Insert the topic at the top of the table. Use a header style for this as the wording of the topic will provide the direction ofr the particpants' creative process.
 
@@ -30,59 +30,69 @@ __Procedure:__
 
 Sometimes teams have difficults to start or team members might be reluctunt to come forward with their ideas. In such a situaton it helps to announce that everyone has to bring forward at least three ideas. Once people start to write, they will get into the flow by themself.
 
-## Arbeitstechnik Matrixdiskussion
+{pagebreak}
 
-Die Matrixdiskussion basiert auf einer Themenliste, die in einer Spalte senkrecht vorgegeben wird. Die Matrixdiskussion ermöglicht es, für eine Liste von Themen oder Alternativvorschlägen von bis zu etwa fünfzehn Einträgen innerhalb sehr kurzer Zeit sehr viele Sichtweisen von allen (!) Teilnehmern zu erhalten.
+## Matrix discussion
 
-Die Matrixdiskussion verbindet die Vorteile eines Internet-Forums mit der direkten Interaktion in einem Chatraum.
+The matrix discussion is a method for quickly gathering a lot of input from all(!) team members on several issues at once. For example it works quite well for evaluationg the advantages and disadvantages of technical alternatives.
 
-__Vorbereitung__
-
-Die Themen oder Alternaivvorschläge sollten alle in einer Spalte untereinander aufgelistet sein. Sollte die Themenlist aus einem vorher durchgeführten Team Writing stammen, sollte die Liste vorab geclustert werden und Mehrfacheinträge sollten entfernt worden sein.
+the matrix discussion combines the advantages of a forum with thos of the spontatnious interaction to be found in a chat room.
 
 
-__Durchführung__
+__Setup:__
 
-Erläutern Sie die Regeln:
+List all alternatives to be discussed in one row, one after the other. Don't forget to groom the list before hand, especially if the topics of the Matrix Discussion have been derived from a previous Team Writing. In this case all double entries or similar entries should be removed.
 
-* Jeder darf zu jedem Eintrag Stellung nehmen. Dies erfolgt, in dem in den Zellen recht von einem Thema oder Vorschlag beliebige Kommentare gepostet werden. Eine Antwort oder Ergänzung zu einem Kommentar wird dann wiederum noch weiter rechts gepostet, usw.
+__How to do it:__
 
-* Die Teilnehmer achten darauf, nur frei Zellen zu benutzen und keine anderen Einträge zu überschreiben.
+Explain the rules:
 
-* Im Gegensatz zum Team Writing ist es ausdrücklich gestattet, auf andere Beiträge zu antworten oder auch Fragen zu stellen.
+* Everyone is free to contribute to every alternative by posting a comment on the right side of the original entry.
 
-* Wer die Aufmerksamkeit der übrigen Teilnehmer auf eine bestimmte Zelle lenken möchte (z.B. auf eine Zelle mit einer vermeintlich wichtigen Frage), kann diese oder mehrere Zellen auch farblich hervor heben.
+* Other then with the Team Writing it is now appriciated and even ask for to comment on other people's comments. This is where the fruitfull discussion starts to set off.
 
-* Wer mit seinen Beiträgen zu ende gekommen ist, platziert seinen Cursor wieder in der Landezone.
+* Everyone should take care for using only empty cells. Do not overwrite other peoples comments.
 
-__Folgebearbeitung__
+* In order to draw other peoples attention to a certain comment everyone can use colors for highlighting them.
 
-Die Matrixdiskussion liefert sehr schnell und sehr dichte Ergebnisse. Wenn das Ausgangsmaterial aus einer Liste von Alternativvorschlägen bestand, bietet es sich an, nach der Matrix gleich eine Listenbewertung durch die Teilnehmer durchführen zu lassen.
+* Place your cursor in the check-in zone once you have nothing to comment on anymore.
 
-Dazu muss der Moderator nur rechts von den Kommentareinträgen einen neuen Bewertungsbereich einrichten und mit den Teilnehmern abstimmen, welches Bewertungsschema (Ranking, Notenvergabe, J/N-Bewertung etc.) verwendet werden soll.
+__Follow-up__
 
-## Arbeitstechnik Vting Runde
+The Matrix Discussion usually provides quite substantial results in a very condensed form within a couple of minutes. Therefore it often makes sense to move on directly and to continue with the evaluation of the results, for example with a [group evaluation technique](#evaluation-techniques).
 
-Die Vting-Runde ist eine Arbeitstechnik zur Gesprächsleitung, die jedem Teilnehmer die Möglichkeit gibt, sich zu äußern. während die anderen ihm oder ihr sehr aufmerksam zuhören. Im Kern entspricht die Team Runde einer Gruppenmoderation nach dem Talking Item oder Talking Stick-Konzept.
+All the facilitator needs to do for this is to setup another entry area right of the last comments. Obviously the evaluation area must setup according to the method the team wants to use. There are several options such as ranking, grades, Y/N, dot voting or more.
 
-* Der Moderator bittet die Teilnehmer reihum um eine Stellungnahme zu einem Problem oder einer Aufgabenstellung. Dabei gelten folgende Regeln:
+## Council Circle
 
-* Die Sprecherreihenfolge richtet sich immer nach der Reihenfolge der Namen in der Landezone.
+The council circle is a technique which has proved to be especially usefull when controversial topics are on the table. In real life meeting an important element of a council circle is the talking item. Only the person with the talking item is entitled to talk, the others are entiteld to deep listening. The item goes from one person to the other thereby making sure that everyone is heard and no one is dominating the talk.
 
-* Der Sprecher hat die Aufgabe, _seine_ Sichtweise möglichst prägnant darzulegen.
+In a virtual meeting a council circle can be setup very easily by using the check-in zone as a replacement for the talking item.
 
-* Die übrigen Teilnehmer haben das Recht, aufmerksam zuzuhören und die Pflicht, dem Sprecher den Raum zu geben, den dieser benötigt.
+__Setup:__
+Non, just use a check-in zone from any table.
 
-* Inhaltliche Nachfragen oder Verständnisfragen sind gestattet, Kritik oder direkte Erwiderungen sind hingegen zu vermeiden.
+__How to do it:__
 
-* Nachdem der erste Sprecher geendet hat, geht das „Talking Item“ an den nächsten in der Landezone gelisteten Teilnehmer über.
+Explain the rules and then set of directly:
 
-* Die Ving Runde wird fortgesetzt, bis alle Teilnehmer ihre Sichtweise dargelegt haben.
+* Everyone should bring forward his point of view. The sequence of the speakers simply follows the order of the name entries in the check-in zone.
 
-Da Vting Runden sehr häufig eingesetzt werden (z.B. bei der Bewertung von Ideen, beim Abschätzen von Arbeitsaufwänden etc.) bietet es sich an, die Reihenfolge hin und wieder zu ändern, damit z.B. nicht immer die gleiche Personen das erste und das letzte Wort haben. Dazu kann die Landezone z.B. rückwärts verwendet werden, die Einträge können statt nach Vornamen nach Nachnamen gelistet werden oder in der Reihenfolge der Geburtstage etc.
+* The one who is the current speaker should provide his point of view in a concise manner.
 
-## Arbeitstechniken für Abstimmungen und Bewertungen
+* Those who are listening are entitled to listen carefully. They are asked to provide the "safe space" the speaker needs.
 
+* Once the speaker has finished, it is ok to ask brief questions in order to retrieve additional information for better understanding. However, there should be no critic of and no response to what has been said.
+
+* Once the first speaker has finished, the next person goes on, according to the order in the check-in zone.
+
+* The council circle finishes once the last person has provided his point of view.
+
+Council circle can be used very frequently for example for evaluating proposals, for making up the team mind on complex issues etc.. Therefore it might make sense to change the order of the speakers from time to time. This can be done quite simply for example by going backwards through the list of names or by switching from first names to last names etc...
+
+
+## Evaluation and Voting {#evaluation-techniques}
+xxx bis hierher
 Das Vting Voting dient dazu, in sehr kurzer Zeit mit dem Team zusammen Prioritäten festzulegen, Aufwandsschätzungen oder ähnliches abzugeben oder Hotspots zu finden (Hotspots sind alle Themen, bei denen die Einschätzung der Teilnehmer sehr weit von einander abweicht.
 
 ### Einfache Mehrheitsentscheidungen
