@@ -10,21 +10,25 @@ Non
 
 __Procedure:__
 
-* Das Thema als Titel in die Tabelle schreiben, von den Teilnehmern die Bestätigung einholen, dass das Thema / die Aufgabenstellung korrekt formuliert ist
+* Insert the topic at the top of the table. Use a header style for this as the wording of the topic will provide the direction ofr the particpants' creative process.
 
-* Den Ablauf und die Regeln erklären:
+* Ask the team if they agree with the wording - if not, repharase it until everyone agrees.
 
-	* Alle sollten möglichst in die gleiche Spalte schreiben, dies erleichtert später das Clustern und Bewerten
+* Explain the procedure and the rules for the Team Writing:
 
-	* Das Einsammeln von Ideen und Vorschlägen erfolgt schriftlich
+	* Everyone should use the same row. This will considerabley simplify the clustering and evaluation stage in the next step.
 
-	* Jeder kann in jede Zeile schreiben, es gibt ausreichend Platz
+	* Ideas are to be added only in writen form, no discussion
 
-	* Jeder Beitrag ist wichtig. Jeder kann mit ergänzenden Beiträgen auf den Ideen der anderen aufbauen, es soll aber kein anderer Beitrag kritisiert oder gar abgewehrt werden.
+	* People are free to use any line they like (as long as they stick to the right row) as long as no other cursor is there. It doesn't matter if there are blank lines in between.
 
-	* Damit die Gedanken fließen, soll jeder Vorschlag sofort eingebracht werden. Die Teilnehmer sollen ausdrücklich nicht prüfen, ob ihr Gedanke bereits von jemand anderem eingebracht wurde. Eine ständige „Vorprüfung“ vor dem Schreiben verhindert kreatives Arbeiten.
+	* Every idea, every contribution is important as others might feel inspired and build new ideas upon it.
 
-Wenn das Team zurückhaltend oder zögerlich ist, hilft es, eine Vorgabe für die Zahl der Beiträge zu machen, z.B.: Jeder Teilnehmer soll mindestens 3 Ideen aufschreiben.
+	* Do not critizise other ideas. Turning each other ideas down will ruin the creative process almost immediately.
+
+	* Let your ideas flow. Do not check if someone else has already written the same or something similar. Doing pre-checks will also undermine the creative process.
+
+Sometimes teams have difficults to start or team members might be reluctunt to come forward with their ideas. In such a situaton it helps to announce that everyone has to bring forward at least three ideas. Once people start to write, they will get into the flow by themself.
 
 ## Arbeitstechnik Matrixdiskussion
 
